@@ -3,6 +3,7 @@
 ### -Meu nome é Guilherme Claro, seja muito bem vinde ao meu perfil no github! Aceita um café? <img src="https://c.tenor.com/2Wu29iaHSYYAAAAi/coffee-lover-hot-coffee.gif" alt="gif de café" style="width:30px;"/>
 
 - 💼 Trabalhando em um projeto de RPG em C++ e no backend da <a href="">Simple Code</a>
+- 🎓 Cursando Ciências da Computação na PUC Minas
 - 🌱 Estudando C# e MySQL
 - 🧐 Quando tenho tempo, gosto muito de investir tempo em projetos pessoais usando linguagens que aprendi!
 - 💻 Estou sempre procurando aprender mais sobre o que eu amo! 
