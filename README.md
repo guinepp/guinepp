@@ -24,7 +24,6 @@
   
 <div align="center">
   <h3 style="background-color: blue"> <i> Thank you for stopping by! </i> </h3>
-<img src="https://i.pinimg.com/originals/b2/6e/21/b26e21d1249e8d98ae007d34c6f3dff2.gif" align="center" style="width: 40%" />
 </div>  
   
   
